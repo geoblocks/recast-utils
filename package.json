@@ -1,0 +1,29 @@
+{
+  "name": "recast-utils",
+  "version": "1.0.0",
+  "description": "Recast utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/geoblocks/recast-utils.git"
+  },
+  "keywords": [
+    "recast",
+    "typescript"
+  ],
+  "type": "module",
+  "author": "Guillaume Beraudo",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/geoblocks/recast-utils/issues"
+  },
+  "homepage": "https://github.com/geoblocks/recast-utils#readme",
+  "dependencies": {
+    "@babel/parser": "^7.23.9",
+    "commander": "^11.1.0",
+    "recast": "^0.23.4"
+  }
+}
