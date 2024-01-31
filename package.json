@@ -1,5 +1,5 @@
 {
-  "name": "recast-utils",
+  "name": "@geoblocks/recast-utils",
   "version": "0.1.0",
   "description": "Recast utilities",
   "main": "index.js",
